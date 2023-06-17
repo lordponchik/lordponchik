@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-🧠 I’m currently learning at GoIT.
-[![codewars](https://www.codewars.com/users/LordPonchik/badges/large)](https://www.codewars.com/users/LordPonchik)   
+🧠 I’m currently learning at GoIT.  
+[![codewars](https://www.codewars.com/users/LordPonchik/badges/small)](https://www.codewars.com/users/LordPonchik)   
 
 <!--
 **lordponchik/lordponchik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
