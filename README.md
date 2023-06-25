@@ -3,7 +3,7 @@
 🧠 I’m currently learning at GoIT.  
 [![codewars](https://www.codewars.com/users/LordPonchik/badges/small)](https://www.codewars.com/users/LordPonchik)    
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?lordponchik=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lordponchik&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **lordponchik/lordponchik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
