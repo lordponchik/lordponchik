@@ -7,7 +7,7 @@
 - 📝 I'm looking for an internship with the opportunity to continue working;
 - 📫 How to contact me: [strashnyuk.denis@icloud.com](strashnyuk.denis@icloud.com);
 - 🌍 I speak Ukrainian (native), Russian (native), German (B1), English (A1);
-- 🤓 I completed an online course at the [GoIT](https://goit.global/ua/) <span style="color:red">school</span> in the profession Frontend-Developer.
+- 🤓 I completed an online course at the [GoIT](https://goit.global/ua/) <span color="red">school</span> in the profession Frontend-Developer.
 
 <h2 align="center">Studying development technologies</h2>
 
