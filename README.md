@@ -2,9 +2,6 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <h2 align="center">Frontend-Developer :man_technologist:</h2>
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=lordponchik&style=for-the-badge">
-</a>
 
 - 🧠 I'm learning German now;
 - 📝 I'm looking for an internship with the opportunity to continue working;
