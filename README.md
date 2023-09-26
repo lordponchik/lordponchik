@@ -11,7 +11,9 @@
 
 <h2 align="center">Studying development technologies</h2>
 
-<img src="./icons/visualstudiocode.svg" width="40"/>✅ ![](./icons/figma.svg)✅ ![](./icons/html5.svg)✅ ![](./icons/css3.svg)✅ ![](./icons/bem.svg)✅ ![](./icons/sass.svg)✅ ![](./icons/javascript.svg)✅ ![](./icons/typescript.svg) [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=200&height=40&lines=is+being+studied)](https://git.io/typing-svg) ![](./icons/react.svg)
+<img src="./icons/visualstudiocode.svg" width="40"/>✅ ![](./icons/figma.svg)✅ ![](./icons/html5.svg)✅ ![](./icons/css3.svg)✅ ![](./icons/bem.svg)✅ ![](./icons/sass.svg)✅ ![](./icons/javascript.svg)✅    
+![](./icons/typescript.svg) [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&vCenter=true&width=200&height=40&lines=is+being+studied)](https://git.io/typing-svg)   
+![](./icons/react.svg)
 
 [![codewars](https://www.codewars.com/users/LordPonchik/badges/small)](https://www.codewars.com/users/LordPonchik)
 
