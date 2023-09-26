@@ -15,27 +15,27 @@
 <li>
 <ul style="list-style:none;margin-right:300px">
 <li style="display:flex;flex-direction:row;justify-content:space-evenly;align-items:center;">
-<img src="./icons/visualstudiocode.svg" style="margin-right:10px">    
+<img src="./icons/visualstudiocode.svg" style="margin-right:10px" width="25">    
 <p style="margin-right:10px">VSCode</p>
 <span>✅</span>
 </li>
 <li style="display:flex;flex-direction:row;justify-content:space-evenly;align-items:center;">
-<img src="./icons/figma.svg" style="margin-right:10px">    
+<img src="./icons/figma.svg" style="margin-right:10px" width="25">    
 <p style="margin-right:10px">Figma</p>
 <span>✅</span>
 </li>
 <li style="display:flex;flex-direction:row;justify-content:space-evenly;align-items:center;">
-<img src="./icons/html5.svg" style="margin-right:10px">    
+<img src="./icons/html5.svg" style="margin-right:10px" width="25">    
 <p style="margin-right:10px">HTML5</p>
 <span>✅</span>
 </li>
 <li style="display:flex;flex-direction:row;justify-content:space-evenly;align-items:center;">
-<img src="./icons/css3.svg" style="margin-right:10px">    
+<img src="./icons/css3.svg" style="margin-right:10px" width="25">    
 <p style="margin-right:10px">CSS3</p>
 <span>✅</span>
 </li>
 <li style="display:flex;flex-direction:row;justify-content:space-evenly;align-items:center;">
-<img src="./icons/javascript.svg" style="margin-right:10px">    
+<img src="./icons/javascript.svg" style="margin-right:10px" width="25">    
 <p style="margin-right:10px">JavaScript</p>
 <span>✅</span>
 </li>
@@ -44,21 +44,21 @@
 <li>
 <ul>
 <li style="display:flex;flex-direction:row;justify-content:space-evenly;align-items:center;">
-<img src="./icons/bem.svg" style="margin-right:10px">    
+<img src="./icons/bem.svg" style="margin-right:10px" width="25">    
 <p style="margin-right:10px">BEM</p>
 <span>✅</span>
 </li>
 <li style="display:flex;flex-direction:row;justify-content:space-evenly;align-items:center;">
-<img src="./icons/sass.svg" style="margin-right:10px">    
+<img src="./icons/sass.svg" style="margin-right:10px" width="25">    
 <p style="margin-right:10px">SASS</p>
 <span>✅</span>
 </li>
 <li style="display:flex;flex-direction:row;justify-content:space-evenly;align-items:center;">
-<img src="./icons/typescript.svg" style="margin-right:10px">    
+<img src="./icons/typescript.svg" style="margin-right:10px" width="25">    
 <p>TypeScript</p>
 </li>
 <li style="display:flex;flex-direction:row;justify-content:space-evenly;align-items:center;">
-<img src="./icons/react.svg" style="margin-right:10px">    
+<img src="./icons/react.svg" style="margin-right:10px" width="25">    
 <p>React</p>
 </li>
 </ul>
