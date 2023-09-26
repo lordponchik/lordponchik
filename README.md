@@ -11,10 +11,10 @@
 
 <h2 align="center">Studying development technologies</h2>
 
-<ul style="display:flex;justify-content:flex-start;list-style:none;margin:0">
+<ul style="display: flex;justify-content: flex-start;list-style: none;margin: 0">
 <li>
-<ul style="list-style:none;margin-right:300px">
-<li style="display:flex;flex-direction:row;justify-content:space-evenly;align-items:center;">
+<ul style="list-style: none;margin-right: 300px">
+<li style="display: flex;flex-direction: row;justify-content: space-evenly;align-items: center;">
 <img src="./icons/visualstudiocode.svg" style="margin-right:10px" width="25">    
 <p style="margin-right:10px">VSCode</p>
 <span>✅</span>
