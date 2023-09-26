@@ -21,7 +21,7 @@
 
 [![codewars](https://www.codewars.com/users/LordPonchik/badges/small)](https://www.codewars.com/users/LordPonchik)   
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=lordponchik)](https://github.com/lordponchik/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=lordponchik)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lordponchik&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
