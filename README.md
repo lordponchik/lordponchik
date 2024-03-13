@@ -5,7 +5,7 @@
 
 - 🧠 I'm learning German now;
 - 📝 I'm looking for an internship with the opportunity to continue working;
-- 📫 How to contact me: [strashnyuk.denis@icloud.com](strashnyuk.denis@icloud.com);
+- 📫 How to contact me: [strashnyuk.denis@icloud.com](strashnyuk.denis@icloud.com) and [strashnyuk.denis@gmail.com](strashnyuk.denis@gmail.com);
 - 🌍 I speak Ukrainian (native), Russian (native), German (B1), English (A1);
 - 🤓 I completed an online course at the [GoIT](https://goit.global/ua/) school in the profession Frontend-Developer.
 
