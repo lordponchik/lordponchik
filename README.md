@@ -9,7 +9,7 @@
 
 </div>
 
-#### About Me :
+### About Me :
 
 - 🧠 I'm learning German now;
 - 📝 I'm looking for an internship with the opportunity to continue working;
@@ -17,7 +17,7 @@
 - 🌍 I speak 🇺🇦Ukrainian (native), Russian (native), 🇩🇪German (B1), 🇺🇸English (A1);
 - 🤓 I completed an online course at the [GoIT](https://goit.global/ua/) school in the profession Frontend-Developer.
 
-#### My stack and tools :
+### My stack and tools :
 
 <div>
   <img src="./icons/stack/html5.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
@@ -33,17 +33,17 @@
   <img src="./icons/stack/vscode.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp;
   <img src="./icons/stack/figma.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
 </div> 
-
+<br>
 [![codewars](https://www.codewars.com/users/LordPonchik/badges/small)](https://www.codewars.com/users/LordPonchik)
 
-#### Roadmap 2024 :
+### Roadmap 2024 :
 
 ✍️ - **Improve:** `German` | `HTML5` | `CSS3` | `JavaScript` <br>
 📚 - **Learn:** `React` | `TypeScript` | `Node.js` <br>
 
 <br>
 
-#### GitHub Stats :
+### GitHub Stats :
 
 <table align="center">
   <tr>
