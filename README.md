@@ -38,7 +38,7 @@
 
 <br>
 
-[![codewars](https://www.codewars.com/users/LordPonchik/badges/small)](https://www.codewars.com/users/LordPonchik)
+[![codewars](https://www.codewars.com/users/LordPonchik/badges/large)](https://www.codewars.com/users/LordPonchik)
 
 <br>
 
