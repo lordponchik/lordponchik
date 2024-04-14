@@ -32,7 +32,7 @@
   <img src="./icons/stack/svg.png" title="Svg" alt="Svg" width="40" height="40"/>&nbsp;
   <img src="./icons/stack/vscode.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp;
   <img src="./icons/stack/figma.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-</div>
+</div> 
 
 [![codewars](https://www.codewars.com/users/LordPonchik/badges/small)](https://www.codewars.com/users/LordPonchik)
 
