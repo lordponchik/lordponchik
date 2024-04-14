@@ -17,6 +17,8 @@
 - 🌍 I speak 🇺🇦Ukrainian (native), Russian (native), 🇩🇪German (B1), 🇺🇸English (A1);
 - 🤓 I completed an online course at the [GoIT](https://goit.global/ua/) school in the profession Frontend-Developer.
 
+<br>
+
 ### My stack and tools :
 
 <div>
@@ -33,7 +35,9 @@
   <img src="./icons/stack/vscode.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp;
   <img src="./icons/stack/figma.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
 </div> 
+
 <br>
+
 [![codewars](https://www.codewars.com/users/LordPonchik/badges/small)](https://www.codewars.com/users/LordPonchik)
 
 ### Roadmap 2024 :
