@@ -46,7 +46,6 @@
 
 ✍️ - **Improve:** `German` | `HTML5` | `CSS3` | `JavaScript` <br>
 📚 - **Learn:** `React` | `TypeScript` | `Node.js` <br>
-
 <br>
 
 ### GitHub Stats :
