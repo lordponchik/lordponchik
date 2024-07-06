@@ -52,7 +52,7 @@
 ### GitHub Stats :
 
 
-  <a href="https://github.com/lordponchik/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lordponchik&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Denys Strashniuk github stats" /></a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lordponchik&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Denys Strashniuk github stats" />
 
 <br>
 
