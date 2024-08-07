@@ -1,4 +1,10 @@
+<a href="https://www.linkedin.com/in/denys-strashniuk/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 <div id="header" align="center">
+<a href="https://t.me/LordPonchik">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
 
 <img src="./images/github.gif" width="100"/>
 
@@ -11,11 +17,7 @@
 
 - 🧠 I'm learning German now;
 - 📝 I'm looking for an internship with the opportunity to continue working;
-- 📫 How to contact me: [E-Mail](strashnyuk.denis@icloud.com) <a href="https://www.linkedin.com/in/denys-strashniuk/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a> <a href="https://t.me/LordPonchik">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
+- 📫 How to contact me: [E-Mail](strashnyuk.denis@icloud.com)  
 - 🌍 I speak 🇺🇦Ukrainian (native), Russian (native), 🇩🇪German (B1), 🇺🇸English (A1);
 - 🤓 I completed an online course at the [GoIT](https://goit.global/ua/) school in the profession Frontend-Developer.
   
