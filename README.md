@@ -55,5 +55,5 @@
 
 ### GitHub Stats :
 
-![Top Langs](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=lordponchik&&layout=compact&theme=buefy&hide_border=true)
+![Top Langs](github-readme-stats.vercel.app/api/top-langs/?username=lordponchik&&layout=compact&theme=buefy&hide_border=true)
 
