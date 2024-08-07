@@ -53,7 +53,7 @@
 
 <br>
 
-### GitHub Stats :
+<h3 style="text-align=center">GitHub Stats:</h3>
 
 <div id="stat" align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lordponchik&theme=github" alt=""/>
