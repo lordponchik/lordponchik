@@ -11,18 +11,14 @@
 
 - 🧠 I'm learning German now;
 - 📝 I'm looking for an internship with the opportunity to continue working;
-- 📫 How to contact me: [E-Mail](strashnyuk.denis@icloud.com)
+- 📫 How to contact me: [E-Mail](strashnyuk.denis@icloud.com) <a href="https://www.linkedin.com/in/denys-strashniuk/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a> <a href="https://t.me/LordPonchik">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
 - 🌍 I speak 🇺🇦Ukrainian (native), Russian (native), 🇩🇪German (B1), 🇺🇸English (A1);
 - 🤓 I completed an online course at the [GoIT](https://goit.global/ua/) school in the profession Frontend-Developer.
   
-<div><a href="https://www.linkedin.com/in/denys-strashniuk/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-<a href="https://t.me/LordPonchik">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-</div>
-
 <br>
 <h3 align="center">My stack and tools :</h3>
 
@@ -59,8 +55,6 @@
 
 <h3 align="center">GitHub Stats :</h3>
 
-<div id="stat" align="center">
-	<a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lordponchik&theme=github"></a>
-	<a href="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lordponchik&theme=github"></a>
-	<a href="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lordponchik&theme=github"></a>
-</div>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lordponchik&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lordponchik&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lordponchik&theme=github)
