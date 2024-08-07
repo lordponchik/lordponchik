@@ -55,5 +55,8 @@
 
 ### GitHub Stats :
 
-![Top Langs](github-readme-stats.vercel.app/api/top-langs/?username=lordponchik&&layout=compact&theme=buefy&hide_border=true)
-
+<div id="stat" align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lordponchik&theme=github" alt=""/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lordponchik&theme=github" alt=""/>
+     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lordponchik&theme=github" alt=""/>
+</div>
