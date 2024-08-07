@@ -50,5 +50,5 @@
 ### GitHub Stats :
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lordponchik&theme=github)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lordponchik)](https://github.com/lordponchik/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lordponchik&layout=compact)](https://github.com/lordponchik/github-readme-stats)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lordponchik&theme=github)
