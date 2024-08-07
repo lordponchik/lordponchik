@@ -1,3 +1,4 @@
+<div align="center">
 <img src="./images/github.gif" width="100"/>
 
 <h1 align="center">Hi there, I'm <a href="https://github.com/lordponchik" target="_blank">Denys</a><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="32" height="32"/></h1>
@@ -5,7 +6,7 @@
 <h2 align="center">Frontend-Developer 👨‍💻</h2>
 </div>
 
-###About Me :
+### About Me :
 
 - 🧠 I'm learning German now;
 - 📝 I'm looking for an internship with the opportunity to continue working;
@@ -14,7 +15,7 @@
 - 🤓 I completed an online course at the [GoIT](https://goit.global/ua/) school in the profession Frontend-Developer.
   
 <br>
-###My stack and tools :
+### My stack and tools :
 
 <div>
   <img src="./icons/stack/html5.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
@@ -37,7 +38,7 @@
 
 <br>
 
-###Roadmap 2024 :
+### Roadmap 2024 :
 
 
 ✍️ - **Improve:** `German` | `HTML5` | `CSS3` | `JavaScript` <br>
@@ -45,7 +46,7 @@
 
 <br>
 
-###GitHub Stats :
+### GitHub Stats :
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lordponchik&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lordponchik&theme=github)
