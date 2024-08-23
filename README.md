@@ -35,6 +35,8 @@
 
 <br>
 
+### 🏁 Codewars Stats:    
+
 <img src="https://www.codewars.com/users/LordPonchik/badges/large">
 
 <br>
