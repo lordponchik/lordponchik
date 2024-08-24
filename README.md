@@ -16,7 +16,7 @@
   
 <br>
 
-### My stack and tools :
+### 🔨 My stack and tools :
 
 <div>
   <img src="./icons/stack/html5.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
