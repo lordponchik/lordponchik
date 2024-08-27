@@ -49,7 +49,7 @@
 
 <br>
 
-### GitHub Stats :
+### 📊 GitHub Stats :
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lordponchik&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lordponchik&theme=github)
