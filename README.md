@@ -39,7 +39,6 @@
 
 <img src="https://www.codewars.com/users/LordPonchik/badges/large">
 
-<br>
 
 ### 🚀 Roadmap 2024 :
 
