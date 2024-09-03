@@ -33,7 +33,6 @@
   <img src="./icons/stack/figma.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
 </div> 
 
-<br>
 
 ### 🏁 Codewars Stats:    
 
