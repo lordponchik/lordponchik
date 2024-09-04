@@ -14,7 +14,6 @@
 - 🌍 I speak 🇺🇦Ukrainian (native), Russian (native), 🇩🇪German (B1), 🇺🇸English (A1);
 - 🤓 I completed an online course at the [GoIT](https://goit.global/ua/) school in the profession Frontend-Developer.
   
-<br>
 
 ### 🔨 My stack and tools :
 
