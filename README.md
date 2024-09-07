@@ -31,7 +31,6 @@
   <img src="./icons/stack/figma.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
 </div> 
 
-
 ### 🏁 Codewars Stats:    
 
 <img src="https://www.codewars.com/users/LordPonchik/badges/large">
