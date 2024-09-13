@@ -35,7 +35,6 @@
 
 <img src="https://www.codewars.com/users/LordPonchik/badges/large">
 
-
 ### 🚀 Roadmap 2024 :
 
 ✍️ - **Improve:** `German` | `HTML5` | `CSS3` | `JavaScript` <br>
