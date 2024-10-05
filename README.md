@@ -41,8 +41,6 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lordponchik&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lordponchik&theme=github)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lordponchik&layout=compact)](https://github.com/lordponchik/github-readme-stats)
-
-### 🏁 Codewars Stats:    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lordponchik&layout=compact)](https://github.com/lordponchik/github-readme-stats)  
 
 <img src="https://www.codewars.com/users/LordPonchik/badges/large">
