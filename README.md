@@ -31,10 +31,6 @@
   <img src="./icons/stack/figma.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
 </div> 
 
-### 🏁 Codewars Stats:    
-
-<img src="https://www.codewars.com/users/LordPonchik/badges/large">
-
 ### 🚀 Roadmap 2024 :
 
 ✍️ - **Improve:** `German` | `HTML5` | `CSS3` | `JavaScript` <br>
@@ -46,3 +42,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lordponchik&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lordponchik&theme=github)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lordponchik&layout=compact)](https://github.com/lordponchik/github-readme-stats)
+
+### 🏁 Codewars Stats:    
+
+<img src="https://www.codewars.com/users/LordPonchik/badges/large">
