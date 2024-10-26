@@ -4,7 +4,6 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/lordponchik" target="_blank">Denys</a><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="32" height="32"/></h1>
 <h2 align="center">Frontend-Developer 👨‍💻</h2>
 </div>
-
 ### 📖 About Me :
 
 - 🧠 I'm learning German now;
