@@ -7,6 +7,7 @@
 
 ### 📖 About Me :
 
+
 - 🧠 I'm learning German now;
 - 📝 I'm looking for an internship with the opportunity to continue working;
 - 📫 How to contact me: [E-Mail](strashnyuk.denis@icloud.com)  
