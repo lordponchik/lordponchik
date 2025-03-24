@@ -11,7 +11,6 @@
 - 🤓 I completed an online course at the [GoIT](https://goit.global/ua/) school in the profession Frontend-Developer.
   
 ### 🔨 My stack and tools :
-
 <div>
   <img src="./icons/stack/html5.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
   <img src="./icons/stack/css3.svg"  title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
