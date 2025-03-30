@@ -11,11 +11,29 @@
 
 ### 🌍 Meine Sprachen: 
 
-| 🇺🇦 | Ukrainisch (Muttersprache) | 
-| ------------- |:------------------:| 
-|   | Russisch (Muttersprache) |
-| 🇩🇪 | Deutsch (B2) | 
-| 🇺🇸 | Englisch (A1) |
+<table style="display: flex; align-items: flex-start; align: center">
+  <tr>
+    
+    🇺🇦 Ukrainisch (Muttersprache)
+        
+  </tr>
+
+  <tr>
+    
+    Russisch (Muttersprache)
+        
+  </tr>
+   <tr>
+    
+    🇩🇪 Deutsch (B2)
+        
+  </tr>
+   <tr>
+
+    🇺🇸 Englisch (A1)
+        
+  </tr>
+</table>
 
 ---
   
@@ -48,3 +66,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lordponchik&layout=compact)](https://github.com/lordponchik/github-readme-stats)  
 
 <img src="https://www.codewars.com/users/LordPonchik/badges/large">
+
