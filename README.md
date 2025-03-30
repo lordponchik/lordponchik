@@ -4,12 +4,12 @@
 <h1 align="center">Hallo, ich bin <a href="https://github.com/lordponchik" target="_blank">Denys</a><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="30" height="30"/></h1>
 </div>
 
-### 📖 Über mich:
-🧠 Derzeit mache ich eine Umschulung zum Fachinformatiker Anwendungsentwickler bei **_LUTZ + GRUB_** und suche ein **_Praktikum_**.
+### 📖 Über mich: 
+🧠 Derzeit mache ich eine Umschulung zum Fachinformatiker Anwendungsentwickler bei **[LUTZ + GRUB](https://www.lutzundgrub.de/)** und suche ein **_Praktikum_**.
 
-🤓 Ich habe 2023 einen Online-Kurs an der ukrainischen GoIT Schule im Bereich Frontend-Entwicklung abgeschlossen.
+🤓 Ich habe 2023 einen Online-Kurs an der ukrainischen **[GoIT](https://goit.global/ua/)** Schule im Bereich Frontend-Entwicklung abgeschlossen.
 
-### 🌍 Meine Sprachen:  
+### 🌍 Meine Sprachen: 
 
 | 🇺🇦 | Ukrainisch (Muttersprache) | 
 | ------------- |:------------------:| 
@@ -17,7 +17,7 @@
 | 🇩🇪 | Deutsch (B2) | 
 | 🇺🇸 | Englisch (A1) |
 
-    
+---
   
 ### 🔨 My stack and tools :
 <div>
