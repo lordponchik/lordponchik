@@ -1,31 +1,45 @@
 <div align="center">
-<img src="./images/octocat.png" width="150"/>
+
   
 <h1 align="center">Hallo, ich bin <a href="https://github.com/lordponchik" target="_blank">Denys</a><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="30" height="30"/></h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=BFC26B&center=true&vCenter=true&width=435&lines=Frontend-Entwickler" alt="Typing SVG" /></a>
 </div>
 
-### 📖 Über mich : 
-🧠 Derzeit mache ich eine Umschulung zum Fachinformatiker Anwendungsentwickler bei **[LUTZ + GRUB](https://www.lutzundgrub.de/)** und suche ein **_Praktikum_**.
+<div align="center">
+  <h3>📖 Über mich : </h3>
+🧠 Derzeit mache ich eine Umschulung zum Fachinformatiker Anwendungsentwickler bei <a href="https://www.lutzundgrub.de/"><b>LUTZ + GRUB</b></a> und suche ein <b>Praktikum</b>.
 
-🤓 Ich habe 2023 einen Online-Kurs an der ukrainischen **[GoIT](https://goit.global/ua/)** Schule im Bereich Frontend-Entwicklung abgeschlossen.
+🤓 Ich habe 2023 einen Online-Kurs an der ukrainischen <a href="https://goit.global/ua/"><b>GoIT</b></a> Schule im Bereich Frontend-Entwicklung abgeschlossen.
 
-### 🌍 Meine Sprachen :
+<h3>🌍 Meine Sprachen :</h3>
 
 <table style="display: flex; align-items: flex-start; align: center;">
-  <tr>
-    <td><img src="./images/flags/flag_ukraine.jpg" width="40"/></td>
-    <td>Ukrainisch (Muttersprache)</td>
-      <td><img src="./images/flags/flag_germany.jpg" width="40"/></td>
-    <td>Deutsch (B2)</td>    
-<td><img src="./images/flags/flag_usa.jpg" width="40"/></td>
-    <td>Englisch (A1)</td>
-        <td>Russisch (Muttersprache)</td>    
-  </tr>
-</table>
+	<tbody>
+		<tr>
+			<td><img src="./images/flags/flag_germany.jpg" width="40"/></td>
+			<td>Deutsch (B2)</td>
+			<td rowspan="4"><img src="./images/octocat.png" width="200"/></td>
+		</tr>
+		<tr>
+			<td><img src="./images/flags/flag_usa.jpg" width="40"/></td>
+			<td>Englisch (A1)</td>
+		</tr>
+		<tr>
+			<td><img src="./images/flags/flag_ukraine.jpg" width="40"/></td>
+			<td>Ukrainisch (Muttersprache)</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td>Russisch (Muttersprache)</td>
+		</tr>
+	</tbody>
+</table></div>
 
 ---
+
+<div align="center">
   
-### 🔨 Mein Stack und meine Tools :
+<h3>🔨 Mein Stack und meine Tools :</h3>
 
 <table>
   <tr>
@@ -84,24 +98,31 @@
       <br>React.js
     </td>
     </tr>
-</table>
+</table></div>
 
 ---
-
-### 🚀 Roadmap 2024 :
+  
+<div align="center">
+ <h3>🚀 Roadmap 2024 :</h3>
 
 ✍️ - **Verbessern:** `Deutsch` | `HTML5` | `CSS3` | `JavaScript` <br>
 📚 - **Lernen:** `React.js` | `TypeScript` | ~`Node.js`~ <br>
 
-### 🚀 Roadmap 2025 :
+<h3>🚀 Roadmap 2025 :</h3> 
 
 ✍️ - **Verbessern:** `Deutsch` | `HTML5` | `CSS3` | `JavaScript` | `React.js` | `TypeScript` <br>
 📚 - **Lernen:** `C#` | `Python` | `SQL` <br>
+</div>
 
 ---
 
-### 📊 Statistik :
+<div align="center">
+ <h3>📊 Statistik :</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lordponchik&layout=compact&locale=de&card_width=400&theme=aura_dark)](https://github.com/lordponchik/github-readme-stats)  
 
 <img src="https://www.codewars.com/users/LordPonchik/badges/large">
+</div>
+
+
+---
