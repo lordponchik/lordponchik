@@ -9,19 +9,17 @@
 
 🤓 Ich habe 2023 einen Online-Kurs an der ukrainischen **[GoIT](https://goit.global/ua/)** Schule im Bereich Frontend-Entwicklung abgeschlossen.
 
-
-
 <h3>🌍 Meine Sprachen :</h3> 
 
 <table style="display: flex; align-items: flex-start; align: center;">
   <tr>
     <td><img src="./images/flags/flag_ukraine.jpg" width="40"/></td>
     <td>Ukrainisch (Muttersprache)</td>
-    <td>Russisch (Muttersprache)</td>    
       <td><img src="./images/flags/flag_germany.jpg" width="40"/></td>
     <td>Deutsch (B2)</td>    
 <td><img src="./images/flags/flag_usa.jpg" width="40"/></td>
-    <td>Englisch (A1)</td>  
+    <td>Englisch (A1)</td>
+        <td>Russisch (Muttersprache)</td>    
   </tr>
 </table>
 
