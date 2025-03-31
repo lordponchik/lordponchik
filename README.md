@@ -105,7 +105,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lordponchik&layout=compact&locale=de&card_width=400)](https://github.com/lordponchik/github-readme-stats)  
 
 <img src="https://www.codewars.com/users/LordPonchik/badges/large">
-
-[![Denys Strashniuk profile views](https://u8views.com/api/v1/github/profiles/79088186/views/day-week-month-total-count.svg)](https://u8views.com/github/lordponchik)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=lordponchik&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
