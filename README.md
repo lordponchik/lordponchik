@@ -27,8 +27,7 @@
   
 ### 🔨 Mein Stack und meine Tools :
 
-<div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
+<table>
   <tr>
      <td align="center"  width="90">
          <img src="./images/icons/stack/html5.svg" alt="HTML5" width="45" height="45"/>
@@ -62,35 +61,19 @@
       <img src="./images/icons/stack/npm.svg" alt="NPM" width="45" height="45"/>
       <br>NPM
     </td>
+  </tr>
+  <tr>
         <td align="center" width="90">
        <img src="./images/icons/stack/svg.png" alt="SVG" width="45" height="45"/>
       <br>SVG
       </td>
-  </tr>
-    <td align="center" width="88">
-        <img src="./images/10-sass.svg" alt="Sass" width="44" height="44"/>
-      <br>Sass
-    </td>
-    <td align="center" width="88"> 
-        <img src="./images/11-bem.svg" alt="Bem" width="44" height="44"/>
-      <br>BEM
-    </td>
-    <td align="center"  width="88">
-        <img src="./images/12-tailwind.svg" alt="Tailwind" width="44" height="44"/>
-      <br>Tailwind
-    </td>
-    <td align="center" width="88">
-        <img src="./images/13-redux.svg" alt="Redux" width="44" height="44"/>
-      <br>Redux
-    </td>
-      <td align="center" width="88">
-        <img src="./images/14-postman.svg" alt="Postman" width="44" height="44"/>
-      <br>Postman
-    </td>
-      </td>
-      <td align="center" width="88">
-        <img src="./images/15-mongodb.svg" alt="MongoDB" width="44" height="44"/>
-      <br>MongoDB
+    <td align="center" width="90">
+        <img src="./images/icons/stack/vscode.svg" alt="VSCode" width="45" height="45"/>
+      <br>VSCode
+    </td>      
+  <td align="center" width="90">
+        <img src="./images/icons/stack/figma.svg" alt="Figma" width="45" height="45"/>
+      <br>Figma
      </td>
      <td align="center" width="88">
         <img src="./images/16-git.svg" alt="Git" width="44" height="44"/>
@@ -104,12 +87,18 @@
         <img src="./images/18-figma.svg" alt="Figma" width="44" height="44"/>
       <br>Figma
      </td>
-</table>
-</div>
- <td align="center" width="90">
+    <td align="center" width="90">
         <img src="./images/icons/stack/typescript.svg" alt="TS" width="45" height="45"/>
       <br>TypeScript
     </td>
+    <td align="center" width="90">
+        <img src="./images/icons/stack/react.svg" alt="React.js" width="45" height="45"/>
+      <br>React.js
+    </td>
+    </tr>
+</table>
+
+ 
 <div>
   <img src="./icons/stack/html5.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
   <img src="./icons/stack/css3.svg"  title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
