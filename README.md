@@ -53,7 +53,9 @@
         <img src="./images/icons/stack/git.svg" alt="Git" width="45" height="45"/>
       <br>Git
     </td>
-    <td align="center" width="90">
+  </tr>
+  <tr>
+     <td align="center" width="90">
         <img src="./images/icons/stack/parcel.avif" alt="Parcel" width="45" height="45"/>
       <br>Parcel
     </td>
@@ -61,8 +63,6 @@
       <img src="./images/icons/stack/npm.svg" alt="NPM" width="45" height="45"/>
       <br>NPM
     </td>
-  </tr>
-  <tr>
         <td align="center" width="90">
        <img src="./images/icons/stack/svg.png" alt="SVG" width="45" height="45"/>
       <br>SVG
@@ -73,18 +73,6 @@
     </td>      
   <td align="center" width="90">
         <img src="./images/icons/stack/figma.svg" alt="Figma" width="45" height="45"/>
-      <br>Figma
-     </td>
-     <td align="center" width="88">
-        <img src="./images/16-git.svg" alt="Git" width="44" height="44"/>
-      <br>Git
-    </td>
-  <td align="center" width="88">
-        <img src="./images/17-vscode.svg" alt="Visual Studio Code" width="44" height="44"/>
-      <br>VSCode
-     </td>
-  <td align="center" width="88">
-        <img src="./images/18-figma.svg" alt="Figma" width="44" height="44"/>
       <br>Figma
      </td>
     <td align="center" width="90">
