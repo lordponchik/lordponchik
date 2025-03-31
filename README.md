@@ -53,12 +53,12 @@
         <img src="./images/icons/stack/git.svg" alt="Git" width="45" height="45"/>
       <br>Git
     </td>
-  </tr>
-  <tr>
-     <td align="center" width="90">
+        <td align="center" width="90">
         <img src="./images/icons/stack/parcel.avif" alt="Parcel" width="45" height="45"/>
       <br>Parcel
     </td>
+  </tr>
+  <tr>
     <td align="center" width="90">
       <img src="./images/icons/stack/npm.svg" alt="NPM" width="45" height="45"/>
       <br>NPM
@@ -86,33 +86,25 @@
     </tr>
 </table>
 
- 
-<div>
-  <img src="./icons/stack/html5.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
-  <img src="./icons/stack/css3.svg"  title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
-  <img src="./icons/stack/javascript.svg"  title="JS" alt="JS" width="40" height="40"/>&nbsp;
-  <img src="./icons/stack/bem.svg" title="Bem" alt="Bem" width="40" height="40"/>&nbsp;
-  <img src="./icons/stack/sass.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
-  <img src="./icons/stack/git.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="./icons/stack/github.svg" title="GitHub"  alt="GitHub" width="40"/>&nbsp;
-  <img src="./icons/stack/parcel.avif" title="Parcel" alt="Parcel" width="40" height="40"/>&nbsp;
-  <img src="./icons/stack/npm.svg" title="Npm" alt="Npm" width="40" height="40"/>&nbsp;
-  <img src="./icons/stack/svg.png" title="Svg" alt="Svg" width="40" height="40"/>&nbsp;
-  <img src="./icons/stack/vscode.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp;
-  <img src="./icons/stack/figma.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-</div> 
+---
 
 ### 🚀 Roadmap 2024 :
 
-✍️ - **Improve:** `German` | `HTML5` | `CSS3` | `JavaScript` <br>
-📚 - **Learn:** `React` | `TypeScript` | `Node.js` <br>
+✍️ - **Verbessern:** `Deutsch` | `HTML5` | `CSS3` | `JavaScript` <br>
+📚 - **Lernen:** `React.js` | `TypeScript` | ~`Node.js`~ <br>
 
+### 🚀 Roadmap 2025 :
 
-### 📊 GitHub Stats :
+✍️ - **Verbessern:** `Deutsch` | `HTML5` | `CSS3` | `JavaScript` | `React.js` | `TypeScript` <br>
+📚 - **Lernen:** `C#` | `Python` | `SQL` <br>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lordponchik&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lordponchik&theme=github)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lordponchik&layout=compact)](https://github.com/lordponchik/github-readme-stats)  
+---
+
+### 📊 Statistik :
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lordponchik&layout=compact&locale=de&card_width=400)](https://github.com/lordponchik/github-readme-stats)  
 
 <img src="https://www.codewars.com/users/LordPonchik/badges/large">
+
+[![Denys Strashniuk profile views](https://u8views.com/api/v1/github/profiles/79088186/views/day-week-month-total-count.svg)](https://u8views.com/github/lordponchik)
 
