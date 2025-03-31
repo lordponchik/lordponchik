@@ -9,7 +9,7 @@
 
 🤓 Ich habe 2023 einen Online-Kurs an der ukrainischen **[GoIT](https://goit.global/ua/)** Schule im Bereich Frontend-Entwicklung abgeschlossen.
 
-<h3>🌍 Meine Sprachen :</h3> 
+### 🌍 Meine Sprachen :
 
 <table style="display: flex; align-items: flex-start; align: center;">
   <tr>
@@ -23,7 +23,6 @@
   </tr>
 </table>
 
-
 ---
   
 ### 🔨 Mein Stack und meine Tools :
@@ -35,37 +34,37 @@
          <img src="./images/icons/stack/html5.svg" alt="HTML5" width="45" height="45"/>
       <br>HTML5
     </td>
-    <td align="center" width="99">
-        <img src="./images/02-css3.svg" alt="CSS3" width="45" height="45"/>
+    <td align="center" width="90">
+        <img src="./images/icons/stack/css3.svg" alt="CSS3" width="45" height="45"/>
       <br>CSS3
     </td>
-    <td align="center" width="88">
-         <img src="./images/03-javascript.svg" alt="JS" width="44" height="44"/>
+    <td align="center" width="90">
+         <img src="./images/icons/stack/javascript.svg" alt="JS" width="45" height="45"/>
       <br>JavaScript
     </td>
-    <td align="center" width="88">
-        <img src="./images/04-typescript.svg" alt="TS" width="44" height="44"/>
-      <br>TypeScript
+    <td align="center" width="90">
+        <img src="./images/icons/stack/bem.svg" alt="BEM" width="45" height="45"/>
+      <br>BEM
     </td>
-    <td align="center" width="88">
-        <img src="./images/05-python.svg" alt="Python" width="44" height="44"/>
-      <br>Python
+    <td align="center" width="90">
+        <img src="./images/icons/stack/sass.svg" alt="SASS" width="45" height="45"/>
+      <br>SASS
     </td>
-    <td align="center" width="88">
-        <img src="./images/06-react.svg" alt="React" width="44" height="44"/>
-      <br>React.js
+    <td align="center" width="90">
+        <img src="./images/icons/stack/git.svg" alt="Git" width="45" height="45"/>
+      <br>Git
     </td>
-    <td align="center" width="88">
-        <img src="./images/07-nextjs.svg" alt="Next.js" width="44" height="44"/>
-      <br>Next.js
+    <td align="center" width="90">
+        <img src="./images/icons/stack/parcel.avif" alt="Parcel" width="45" height="45"/>
+      <br>Parcel
     </td>
-    <td align="center" width="88">
-      <img src="./images/08-nodejs.svg" alt="Node.js" width="44" height="44"/>
-      <br>Node.js
+    <td align="center" width="90">
+      <img src="./images/icons/stack/npm.svg" alt="NPM" width="45" height="45"/>
+      <br>NPM
     </td>
-        <td align="center" width="88">
-       <img src="./images/09-sql.svg" alt="SQL" width="44" height="44"/>
-      <br>SQL
+        <td align="center" width="90">
+       <img src="./images/icons/stack/svg.png" alt="SVG" width="45" height="45"/>
+      <br>SVG
       </td>
   </tr>
     <td align="center" width="88">
@@ -107,7 +106,10 @@
      </td>
 </table>
 </div>
-
+ <td align="center" width="90">
+        <img src="./images/icons/stack/typescript.svg" alt="TS" width="45" height="45"/>
+      <br>TypeScript
+    </td>
 <div>
   <img src="./icons/stack/html5.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
   <img src="./icons/stack/css3.svg"  title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
