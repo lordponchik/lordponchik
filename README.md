@@ -13,9 +13,8 @@
 
 <table style="display: flex; align-items: flex-start; align: center">
   <tr>
-    
-    🇺🇦 Ukrainisch (Muttersprache)
-        
+    <td><a href="https://github.com/lordponchik/lordponchik/blob/main/images/flags/flag_ukraine.jpg" style="display:flex;"><img src="./images/flags/flag_ukraine.jpg" width="40"/></a></td>
+    <td>Ukrainisch (Muttersprache)</td>
   </tr>
 
   <tr>
