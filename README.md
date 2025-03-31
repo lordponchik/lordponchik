@@ -108,3 +108,4 @@
 
 [![Denys Strashniuk profile views](https://u8views.com/api/v1/github/profiles/79088186/views/day-week-month-total-count.svg)](https://u8views.com/github/lordponchik)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=lordponchik&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
