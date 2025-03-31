@@ -13,24 +13,21 @@
 
 <table style="display: flex; align-items: flex-start; align: center">
   <tr>
-    <td><a href="https://github.com/lordponchik/lordponchik/blob/main/images/flags/flag_ukraine.jpg" style="display:flex;"><img src="./images/flags/flag_ukraine.jpg" width="40"/></a></td>
+    <td><img src="./images/flags/flag_ukraine.jpg" width="40"/></td>
     <td>Ukrainisch (Muttersprache)</td>
   </tr>
 
   <tr>
-    
-    Russisch (Muttersprache)
-        
+    <td></td>
+    <td>Russisch (Muttersprache)</td>    
   </tr>
    <tr>
-    
-    🇩🇪 Deutsch (B2)
-        
+      <td><img src="./images/flags/flag_germany.jpg" width="40"/></td>
+    <td>Deutsch (B2)</td>    
   </tr>
    <tr>
-
-    🇺🇸 Englisch (A1)
-        
+<td><img src="./images/flags/flag_usa.jpg" width="40"/></td>
+    <td>Englisch (A1)</td>  
   </tr>
 </table>
 
