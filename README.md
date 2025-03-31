@@ -102,6 +102,6 @@
 
 ### 📊 Statistik :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lordponchik&layout=compact&locale=de&card_width=400)](https://github.com/lordponchik/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lordponchik&layout=compact&locale=de&card_width=400&theme=aura_dark)](https://github.com/lordponchik/github-readme-stats)  
 
 <img src="https://www.codewars.com/users/LordPonchik/badges/large">
