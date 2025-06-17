@@ -1,7 +1,6 @@
 <div align="center">
 <h1 align="center">Hallo, ich bin <a href="https://github.com/lordponchik" target="_blank">Denys</a><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="30" height="30"/></h1>
 </div>
-
 <div align="center">
   <h3>📖 Über mich : </h3>
 🧠 Derzeit mache ich eine Umschulung zum Fachinformatiker Anwendungsentwickler bei <a href="https://www.lutzundgrub.de/"><b>LUTZ + GRUB</b></a> und suche ein <b>Praktikum</b>.
