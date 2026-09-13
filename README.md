@@ -1,4 +1,4 @@
-<div align="center">
+ <!--<div align="center">
 <h1 align="center">Hallo, ich bin <a href="https://github.com/lordponchik" target="_blank">Denys</a><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="30" height="30"/></h1>
 </div>
 <div align="center">
@@ -97,7 +97,7 @@
 </table></div>
 
 ---
-  
+ 
 <div align="center">
  <h3>🚀 Roadmap 2024 :</h3>
 
@@ -115,10 +115,7 @@
 <div align="center">
  <h3>📊 Statistik :</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lordponchik&layout=compact&locale=de&card_width=400&theme=aura_dark)](https://github.com/lordponchik/github-readme-stats)  
-
-<img src="https://www.codewars.com/users/LordPonchik/badges/large">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lordponchik&layout=compact&locale=de&card_width=400&theme=aura_dark)](https://github.com/lordponchik/github-readme-stats)
 </div>
-
----
----
+-->
+<img src="https://www.codewars.com/users/LordPonchik/badges/large">
