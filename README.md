@@ -1,121 +1,50 @@
- <!--<div align="center">
-<h1 align="center">Hallo, ich bin <a href="https://github.com/lordponchik" target="_blank">Denys</a><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="30" height="30"/></h1>
-</div>
 <div align="center">
-  <h3>📖 Über mich : </h3>
-🧠 Derzeit mache ich eine Umschulung zum Fachinformatiker Anwendungsentwickler bei <a href="https://www.lutzundgrub.de/"><b>LUTZ + GRUB</b></a> und suche ein <b>Praktikum</b>.
-
-🤓 Ich habe 2023 einen Online-Kurs an der ukrainischen <a href="https://goit.global/ua/"><b>GoIT</b></a> Schule im Bereich Frontend-Entwicklung abgeschlossen.
-
-<h3>🌍 Meine Sprachen :</h3>
-
-<table style="display: flex; align-items: flex-start; align: center;">
-	<tbody>
-		<tr>
-			<td><img src="./images/flags/flag_germany.jpg" width="40"/></td>
-			<td>Deutsch (B2)</td>
-			<td rowspan="4"><img src="./images/octocat.png" width="200"/></td>
-		</tr>
-		<tr>
-			<td><img src="./images/flags/flag_usa.jpg" width="40"/></td>
-			<td>Englisch (A1)</td>
-		</tr>
-		<tr>
-			<td><img src="./images/flags/flag_ukraine.jpg" width="40"/></td>
-			<td>Ukrainisch (Muttersprache)</td>
-		</tr>
-		<tr>
-			<td></td>
-			<td>Russisch (Muttersprache)</td>
-		</tr>
-	</tbody>
-</table></div>
-
----
-
-<div align="center">
-  
-<h3>🔨 Mein Stack und meine Tools :</h3>
-
-<table>
-  <tr>
-     <td align="center"  width="90">
-         <img src="./images/icons/stack/html5.svg" alt="HTML5" width="45" height="45"/>
-      <br>HTML5
-    </td>
-    <td align="center" width="90">
-        <img src="./images/icons/stack/css3.svg" alt="CSS3" width="45" height="45"/>
-      <br>CSS3
-    </td>
-    <td align="center" width="90">
-         <img src="./images/icons/stack/javascript.svg" alt="JS" width="45" height="45"/>
-      <br>JavaScript
-    </td>
-    <td align="center" width="90">
-        <img src="./images/icons/stack/bem.svg" alt="BEM" width="45" height="45"/>
-      <br>BEM
-    </td>
-    <td align="center" width="90">
-        <img src="./images/icons/stack/sass.svg" alt="SASS" width="45" height="45"/>
-      <br>SASS
-    </td>
-    <td align="center" width="90">
-        <img src="./images/icons/stack/git.svg" alt="Git" width="45" height="45"/>
-      <br>Git
-    </td>
-        <td align="center" width="90">
-        <img src="./images/icons/stack/parcel.avif" alt="Parcel" width="45" height="45"/>
-      <br>Parcel
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
-      <img src="./images/icons/stack/npm.svg" alt="NPM" width="45" height="45"/>
-      <br>NPM
-    </td>
-        <td align="center" width="90">
-       <img src="./images/icons/stack/svg.png" alt="SVG" width="45" height="45"/>
-      <br>SVG
-      </td>
-    <td align="center" width="90">
-        <img src="./images/icons/stack/vscode.svg" alt="VSCode" width="45" height="45"/>
-      <br>VSCode
-    </td>      
-  <td align="center" width="90">
-        <img src="./images/icons/stack/figma.svg" alt="Figma" width="45" height="45"/>
-      <br>Figma
-     </td>
-    <td align="center" width="90">
-        <img src="./images/icons/stack/typescript.svg" alt="TS" width="45" height="45"/>
-      <br>TypeScript
-    </td>
-    <td align="center" width="90">
-        <img src="./images/icons/stack/react.svg" alt="React.js" width="45" height="45"/>
-      <br>React.js
-    </td>
-    </tr>
-</table></div>
-
----
- 
-<div align="center">
- <h3>🚀 Roadmap 2024 :</h3>
-
-✍️ - **Verbessern:** `Deutsch` | `HTML5` | `CSS3` | `JavaScript` <br>
-📚 - **Lernen:** `React.js` | `TypeScript` | ~`Node.js`~ <br>
-
-<h3>🚀 Roadmap 2025 :</h3> 
-
-✍️ - **Verbessern:** `Deutsch` | `HTML5` | `CSS3` | `JavaScript` | `React.js` | `TypeScript` <br>
-📚 - **Lernen:** `C#` | `Python` | `SQL` <br>
+  <h1>👋 Hallo, ich bin Denys</h1>
+  <h3>Fullstack Developer | Fachinformatiker Anwendungsentwicklung</h3>
+  <a href="https://github.com/lordponchik"><img src="https://komarev.com/ghpvc/?username=lordponchik&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /></a>
+  <p><i>Leidenschaftlicher Entwickler mit Fokus auf moderne Webanwendungen und KI-Integration.</i></p>
 </div>
 
 ---
 
-<div align="center">
- <h3>📊 Statistik :</h3>
+### 👨‍💻 Über mich
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lordponchik&layout=compact&locale=de&card_width=400&theme=aura_dark)](https://github.com/lordponchik/github-readme-stats)
+- 🔭 **Aktuelles Praktikum bei:** **[Visito GmbH](https://heyaspi.de)** – Frontend- & Backend-Entwicklung (Mitarbeit an "visito.me – Die All-in-One Plattform für digitale Gastronomie").
+- 🎓 **Ausbildung:** Laufende Umschulung zum Fachinformatiker Anwendungsentwicklung bei der **LUTZ + GRUB Academy** (voraussichtlicher Abschluss: November 2026).
+- 🌱 **Mein Fokus:** Neben der Fullstack-Entwicklung beschäftige ich mich stark mit **AI & Agentic Systems** (LLM Integration, LangGraph).
+- 📫 **Kontakt:** [denys.strashniuk@outlook.com](mailto:denys.strashniuk@outlook.com)
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,py,fastapi,cs,dotnet,git,vscode,figma&theme=dark" alt="Tech Stack" />
+  </a>
 </div>
--->
-<img src="https://www.codewars.com/users/LordPonchik/badges/large">
+
+---
+
+### 📈 GitHub Stats & Coding Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lordponchik&show_icons=true&theme=aura_dark&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lordponchik&layout=compact&theme=aura_dark&hide_border=true" width="48%" />
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://www.codewars.com/users/LordPonchik">
+    <img src="https://www.codewars.com/users/LordPonchik/badges/large" alt="Codewars Badge">
+  </a>
+</div>
+
+---
+
+### 🌍 Sprachen
+
+<div align="center">
+  🇩🇪&nbsp;<b>Deutsch</b>&nbsp;(Gute&nbsp;Kenntnisse) &nbsp;&nbsp;|&nbsp;&nbsp; 🇬🇧&nbsp;<b>Englisch</b>&nbsp;(Grundkenntnisse) &nbsp;&nbsp;|&nbsp;&nbsp; 🇺🇦&nbsp;<b>Ukrainisch</b>&nbsp;(Muttersprache) &nbsp;&nbsp;|&nbsp;&nbsp; 🇷🇺&nbsp;<b>Russisch</b>&nbsp;(Muttersprache)
+</div>
