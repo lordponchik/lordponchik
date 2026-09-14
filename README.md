@@ -9,7 +9,7 @@
 
 ### 👨‍💻 Über mich
 
-- 🔭 **Aktuelles Praktikum bei:** **[Visito GmbH](https://heyaspi.de)** – Frontend- & Backend-Entwicklung (Mitarbeit an "visito.me – Die All-in-One Plattform für digitale Gastronomie").
+- 🔭 **Aktuelles Praktikum bei:** **[Visito GmbH](https://visito.me/)** – Frontend- & Backend-Entwicklung (Mitarbeit an "visito.me – Die All-in-One Plattform für digitale Gastronomie").
 - 🎓 **Ausbildung:** Laufende Umschulung zum Fachinformatiker Anwendungsentwicklung bei der **LUTZ + GRUB Academy** (voraussichtlicher Abschluss: November 2026).
 - 🌱 **Mein Fokus:** Neben der Fullstack-Entwicklung beschäftige ich mich stark mit **AI & Agentic Systems** (LLM Integration, LangGraph).
 - 📫 **Kontakt:** [denys.strashniuk@outlook.com](mailto:denys.strashniuk@outlook.com)
